@@ -1,2 +1,2 @@
-# artclass
-classifiers for artwork style classification
+# ArtClass
+Building classifiers for artwork style classification
